@@ -15,6 +15,6 @@
    "remote": "github",
    "repository": "PixelExperience-Devices/kernel_xiaomi_tissot",
    "target_path": "kernel/xiaomi/msm8953",
-   "branch": "ten"
+   "branch": "ten-2"
   }
 ]
